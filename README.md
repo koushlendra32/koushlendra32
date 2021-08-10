@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @koushlendra32
 - 👀 I’m interested in automation
-- 🌱 I’m currently learning HTMl
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me koushlendra32@gmail.com
 
